@@ -1,0 +1,39 @@
+
+h1{ 
+    font-weight:normal
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white
+    
+    
+}
+li{
+    text-size-adjust: 50px;
+}
+
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+h2{
+    font-style: italic;
+}
+
+
+.myHeader {
+    font-size: 32px;
+}
+
+.mytext{
+    font-size: 30px;
+}
+
+footer{
+    background-color:aliceblue
+}
+
+.navbar-brand{
+    font-style: italic;
+    
+}

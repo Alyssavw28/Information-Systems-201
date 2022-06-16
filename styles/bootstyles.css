@@ -1,0 +1,28 @@
+.common{
+    font-size: 40px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    position:static;
+    font-size: 28px;
+}
+
+head{
+    background-color: blueviolet;
+    height: auto;
+}
+
+.mainbody{
+background-color:aliceblue
+
+}
+
+.mytext{
+    text-size-adjust: 28px;
+}
+
+.caption{
+    font-size: 20px;
+    text-align: left;
+
